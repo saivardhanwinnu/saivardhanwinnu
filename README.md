@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chindam Saivardhan</h1>
-<h3 align="center">A 4th Fourth passionate about building impactful web experiences</h3>
+<h3 align="center">A 4th Year Student passionate about building impactful web experiences</h3>
 
 ---
 
